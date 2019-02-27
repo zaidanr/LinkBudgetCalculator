@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LinkBudgetCalculator</string>
+    <string name="panjang_kabel">PANJANG KABEL (m)</string>
+    <string name="m">(m)</string>
+    <string name="loss_per_km">LOSS PER KM (dB)</string>
+    <string name="db">(dB)</string>
+    <string name="calculate">HITUNG</string>
+    <string name="hasil">HASIL</string>
+    <string name="M">M</string>
+    <string name="dB">dB</string>
+    <string name="_0">0</string>
+    <string name="splice">SPLICE LOSS (dB)</string>
+    <string name="splice2">JML SPLICE</string>
+    <string name="konektorloss">LOSS KONEKTOR (dB)</string>
+    <string name="konektorloss2">JML KONEKTOR</string>
+    <string name="lossSwitch">LOSS SWITCH (dB)</string>
+    <string name="lossSplitter">LOSS SPLITTER (dB)</string>
+    <string name="lossKomponen">LOSS KOMPONEN LAIN (dB)</string>
+    <string name="a">a</string>
+    <string name="lihat_rincian">LIHAT RINCIAN</string>
+</resources>
